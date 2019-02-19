@@ -1,0 +1,40 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+div {
+	display: block;
+}
+
+body {
+	font: 'Tahoma', sans-serif;
+}
+.main {
+	margin-left: auto;
+	margin-right: auto;
+}
+.header {
+	margin-right: 0;
+	margin-left: 0;
+	height:177px;
+	background-color: #4B367C;
+}
+
+.image {
+	width: 100px;
+	height: 100px;
+}
+
+.logo {
+	width: 100px;
+	height: 100px;	
+	padding: 30px 10px 10px 10px;
+	margin-left: 0;
+}
+
+
+.nav {
+	margin: auto;
+	width: 400px;
+}
